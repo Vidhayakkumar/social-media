@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "253791937920",
+    "firebase_url": "https://social-e6bd6-default-rtdb.firebaseio.com",
+    "project_id": "social-e6bd6",
+    "storage_bucket": "social-e6bd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253791937920:android:8068dcec2ad5248f6a4d65",
+        "android_client_info": {
+          "package_name": "com.onechance.socialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253791937920-1sl3e615i4ttn660cn1knjqm21vi40nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUaTmi4NhKufmVQaGUx8OtWluhW0qcEw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253791937920-1sl3e615i4ttn660cn1knjqm21vi40nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
